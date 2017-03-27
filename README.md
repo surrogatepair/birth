@@ -3,3 +3,8 @@
 
 ## 参考URL
 [データの可視化 日本人の誕生日ランキングをあらわす一枚の画像](http://qlikview-training.ashisuto.co.jp/birthday-ranking/) - QlikView Training
+
+
+---
+* [さろげーとの物置](https://surrogatepair.github.io/)
+* [Twitter @surrogatepair](https://twitter.com/surrogatepair)
