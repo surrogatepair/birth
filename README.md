@@ -6,5 +6,4 @@
 
 
 ---
-* [さろげーとの物置](https://surrogatepair.github.io/)
-* [Twitter @surrogatepair](https://twitter.com/surrogatepair)
+[Twitter @surrogatepair](https://twitter.com/surrogatepair)
